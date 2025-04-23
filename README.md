@@ -87,3 +87,5 @@
 ### Задания по программированию:
 
 - [Финальная задача курса](https://github.com/SemyonSemenov/Basics-of-Cpp-Development-White-Belt/blob/e427d9eb6b1972559f0898ba7b032434f0b768f0/Week%205/Final%20task%20of%20the%20course.cpp)
+
+Test
